@@ -30,4 +30,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/amd-track1-agent:latest
+          tags: ghcr.io/tirthpinkalsheth/amd-track1-agent:latest
